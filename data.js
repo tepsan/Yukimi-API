@@ -1621,6 +1621,8 @@ const data = [
   '0x8845d88d5cc69cb61139C219Dc95779485bCD450',
   '0x1a3a51b65250c7153371edd7ad26bd737b75fcfa',
   '0x3419efC6DcddF7ae567DcDd406EF7d68d8cC5294',
+  '0xAf9C01ccdDb9ff92Be4ac97939018313d924271B',
+  '0x24defc5ca01716f8fe4f27Ab28ffADbe974b387B',
 ];
 
 module.exports = {
